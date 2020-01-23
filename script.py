@@ -1,0 +1,1 @@
+print('Hello World')                        # Code shows text text 'Hello World'
